@@ -19,3 +19,11 @@ ITEM_PIPELINES = {
 }
 IMAGES_STORE = 'tmp/images/'
 
+############## REFERENCE ################################################
+The following sites helped me learn web scrapping using scrapy well. A big shoutout of thanks to the ones responsible for these websites
+https://codereview.stackexchange.com/questions/172174/scrapy-crawler-to-parse-data-recursively
+https://www.pyimagesearch.com/2015/10/12/scraping-images-with-python-and-scrapy/
+https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
+https://doc.scrapy.org/en/latest/index.html
+https://doc.scrapy.org/en/latest/topics/media-pipeline.html
+https://www.digitalocean.com/community/tutorials/how-to-crawl-a-web-page-with-scrapy-and-python-3#step-3-%E2%80%94-crawling-multiple-pages
